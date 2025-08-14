@@ -56,7 +56,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold">Conecta Conmigo</h3>
             <div className="flex justify-center md:justify-start space-x-4">
               <a 
-                href="https://github.com" 
+                href="https://github.com/EliasDesarrollador" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-secondary rounded-full flex items-center justify-center text-secondary-foreground hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-110"
@@ -65,7 +65,7 @@ const Footer = () => {
                 <Github size={20} />
               </a>
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/el%C3%ADas-ort%C3%ADz-a5895224b/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-secondary rounded-full flex items-center justify-center text-secondary-foreground hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-110"
@@ -74,7 +74,7 @@ const Footer = () => {
                 <Linkedin size={20} />
               </a>
               <a 
-                href="mailto:desarrollador@ejemplo.com"
+                href="emails.eliasortiz@gmail.com"
                 className="w-10 h-10 bg-secondary rounded-full flex items-center justify-center text-secondary-foreground hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-110"
                 aria-label="Send Email"
               >
@@ -94,7 +94,7 @@ const Footer = () => {
               © {currentYear} Desarrollador Portfolio. Todos los derechos reservados.
             </p>
             <p className="text-foreground-muted text-sm flex items-center gap-1">
-              Hecho con <Heart size={14} className="text-red-500" /> y mucho café
+              Desarrollado <Heart size={14} className="text-red-500" /> por Elías Ortiz
             </p>
           </div>
         </div>
