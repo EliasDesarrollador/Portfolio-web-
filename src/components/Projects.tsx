@@ -2,6 +2,7 @@ import { ExternalLink, Github } from "lucide-react";
 import project1Image from "@/assets/project-1.jpg";
 import project2Image from "@/assets/project-2.jpg";
 import project3Image from "@/assets/project-3.jpg";
+import WhatsAppButton from "./WhatsAppButton";
 
 const Projects = () => {
   const projects = [

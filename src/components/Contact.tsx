@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Mail, MapPin, Phone, Send } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
+import WhatsAppButton from "./WhatsAppButton";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -168,6 +169,13 @@ const Contact = () => {
               </button>
             </form>
           </div>
+        </div>
+
+        <div className="contact-info">
+          
+        </div>
+        <div className="mt-4">
+          <WhatsAppButton phone="595976393314" message="¡Hola! Vi tu portfolio y quiero contactarte." />
         </div>
       </div>
     </section>
