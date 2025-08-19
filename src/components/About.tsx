@@ -12,14 +12,14 @@ const About = () => {
           <div className="space-y-6 fade-in-up stagger-1">
             <p className="text-lg text-foreground-muted leading-relaxed">
               Soy un desarrollador full stack apasionado por crear soluciones digitales que 
-              impacten positivamente en la vida de las personas. Con más de 1 año de experiencia, 
+              impacten positivamente en la vida de las personas. Con más de 1 año de experiencia trabajando de forma freelance, 
               me especializo en el desarrollo de aplicaciones web modernas y escalables.
             </p>
 
             <p className="text-lg text-foreground-muted leading-relaxed">
               Mi enfoque se centra en escribir código limpio, implementar las mejores prácticas 
               de desarrollo y mantenerme actualizado con las últimas tecnologías del sector. 
-              Disfruto colaborando en equipos multidisciplinarios y enfrentando desafíos técnicos complejos.
+              Disfruto colaborando en equipos multidisciplinarios y enfrentando desafíos .
             </p>
 
             <div className="flex flex-wrap gap-3">
@@ -34,7 +34,7 @@ const About = () => {
             {/* Foto */}
             <div className="flex justify-center">
               <img
-                src="/images/elias.jpg"
+                src="/images/elias.jpg.jpg"
                 alt="Foto de Elías"
                 className="rounded-xl shadow-lg w-64 h-64 object-cover"
               />

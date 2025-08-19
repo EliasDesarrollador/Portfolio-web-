@@ -2,19 +2,19 @@ const Skills = () => {
   const skills = {
     frontend: [
       "React", "TypeScript", "Next.js", "Vue.js", "HTML5", "CSS3", 
-      "Tailwind CSS", "SASS", "JavaScript ES6+", "jQuery"
+      "Tailwind CSS", "SASS", "JavaScript ES6+"
     ],
     backend: [
       "Node.js", "Express.js", "Python", "Django", "FastAPI", "PHP", 
       "Laravel", "REST APIs", "GraphQL", "Microservices"
     ],
     database: [
-      "MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase", 
-      "Supabase", "Prisma", "Mongoose"
+      "MongoDB", "PostgreSQL", "MySQL", "Scrapi", "Firebase", 
+      "Supabase","SQLserver"
     ],
     tools: [
       "Git", "Docker", "AWS", "Vercel", "Netlify", "Linux", 
-      "VS Code", "Figma", "Postman", "Jest"
+      "VS Code", "Figma", "Postman", "Jest","Nginx", "Apache"
     ]
   };
 

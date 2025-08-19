@@ -25,12 +25,12 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "Real Estate Platform",
-      description: "Portal inmobiliario con búsqueda avanzada, mapas interactivos, sistema de filtros, tours virtuales y chat integrado entre usuarios.",
+      title: "Jahugapp",
+      description: "Juego Web escrito en javascript ,consiste en un juego de memorizacion de cartas.",
       image: project3Image,
-      technologies: ["Next.js", "PostgreSQL", "Prisma", "Leaflet"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/example"
+      technologies: ["HTML5","CSS3", "firebase", "Netlify"],
+      liveUrl: "https://jahugapp.netlify.app/",
+      githubUrl: "https://github.com/EliasDesarrollador/Jahugapp"
     }
   ];
 
