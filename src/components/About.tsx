@@ -24,7 +24,7 @@ const About = () => {
 
             <div className="flex flex-wrap gap-3">
               <span className="skill-badge">+1 año experiencia</span>
-              <span className="skill-badge">2+ proyectos completados</span>
+              <span className="skill-badge">4+ proyectos completados</span>
               <span className="skill-badge">Desarrollo Web </span>
             </div>
           </div>
@@ -46,16 +46,16 @@ const About = () => {
 
               <div className="space-y-6">
                 <div className="border-l-2 border-primary pl-4">
-                  <h4 className="font-semibold text-foreground">Senior Full Stack Developer</h4>
-                  <p className="text-sm text-accent">Tech Solutions Inc. • 2024 - Presente</p>
+                  <h4 className="font-semibold text-foreground">Full Stack Developer</h4>
+                  <p className="text-sm text-accent">Freelance • 2024 - Presente</p>
                   <p className="text-foreground-muted mt-2">
-                    Desarrollo de aplicaciones web complejas usando React, Node.js y bases de datos NoSQL.
+                    Desarrollo de aplicaciones web complejas usando React, Node.js y bases de datos.
                   </p>
                 </div>
 
                 <div className="border-l-2 border-primary pl-4">
                   <h4 className="font-semibold text-foreground">Frontend Developer</h4>
-                  <p className="text-sm text-accent">Digital Agency • 2023 - 2024</p>
+                  <p className="text-sm text-accent">Freelance • 2023 - 2024</p>
                   <p className="text-foreground-muted mt-2">
                     Creación de interfaces de usuario interactivas y responsive para clientes diversos.
                   </p>
@@ -63,9 +63,9 @@ const About = () => {
 
                 <div className="border-l-2 border-primary pl-4">
                   <h4 className="font-semibold text-foreground">Web Developer</h4>
-                  <p className="text-sm text-accent">StartUp Lab • 2022 - 2023</p>
+                  <p className="text-sm text-accent">Freelance • 2022 - 2023</p>
                   <p className="text-foreground-muted mt-2">
-                    Desarrollo de MVPs y prototipos para startups tecnológicas emergentes.
+                    Desarrollo y estructuración de landing page.
                   </p>
                 </div>
               </div>

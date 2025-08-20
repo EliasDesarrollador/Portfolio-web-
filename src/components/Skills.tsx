@@ -13,8 +13,8 @@ const Skills = () => {
       "Supabase","SQLserver"
     ],
     tools: [
-      "Git", "Docker", "AWS", "Vercel", "Netlify", "Linux", 
-      "VS Code", "Figma", "Postman", "Jest","Nginx", "Apache"
+      "Git", "AWS", "Vercel", "Netlify", "Linux", 
+      "VS Code", "Figma", "Postman","Nginx", "Apache"
     ]
   };
 

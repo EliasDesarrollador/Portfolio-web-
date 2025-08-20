@@ -8,12 +8,12 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce Platform",
-      description: "Plataforma de comercio electrónico completa con panel de administración, gestión de inventario, procesamiento de pagos y sistema de usuarios avanzado.",
+      title: "Gestor de Gastos",
+      description: "Aplicación web para el seguimiento de gastos personales, con autenticación, gráficos interactivos y notificaciones por correo electrónico.",
       image: project1Image,
-      technologies: ["React", "Node.js", "MongoDB", "Stripe", "Express"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/example"
+      technologies: ["React","Tailwind" ,"Node.js", "MongoDB", "Typescript", "Express"],
+      liveUrl: "https://expense-tracker-eee50.web.app/",
+      githubUrl: "https://github.com/EliasDesarrollador/expense-tracker"
     },
     {
       id: 2,
@@ -96,7 +96,7 @@ const Projects = () => {
             ¿Interesado en ver más de mi trabajo?
           </p>
           <button 
-            onClick={() => window.open('https://github.com', '_blank')}
+            onClick={() => window.open('https://github.com/EliasDesarrollador?tab=repositories', '_blank')}
             className="btn-outline"
           >
             Ver más en GitHub
